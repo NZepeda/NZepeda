@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my Github, home to all my code! 
+
+I'm a 27 year old Californian turned New Yorker. I enjoy using web technologies such as React and Typescript.
+
 <!--
 **NZepeda/NZepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
